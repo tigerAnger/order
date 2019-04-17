@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜
+                    java是世界上最好的语言!!!
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
